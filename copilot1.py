@@ -26,3 +26,5 @@ def calculate_total(subtotal, tax_rate):
 input_subtotal = float(input("Enter the subtotal: "))
 input_tax_rate = float(input("Enter the tax rate: "))
 calculate_total(input_subtotal, input_tax_rate)
+
+
